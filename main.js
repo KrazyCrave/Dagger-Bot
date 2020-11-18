@@ -132,5 +132,5 @@ client.on("message", async message => {
     
 });
 
-client.login('NzcyNTMzNjA4MjA0MDc1MDE5.X58D_Q.IiaMmsoNMbyrAtWA4PT269T8D0w');
+client.login('token');
 
